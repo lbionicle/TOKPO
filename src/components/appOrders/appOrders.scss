@@ -1,0 +1,17 @@
+.dropdown-toggle::after {
+    display: none !important;
+}
+.dropdown-toggle {
+    cursor: pointer;
+}
+.modal {
+    padding-right: 0 !important;
+    min-width: 100vw !important; 
+    min-height: 100vh !important;
+    --bs-modal-width: 1100px !important;
+}
+
+.modal-backdrop {
+    width: 999vw !important;
+    height: 999vh !important;
+}

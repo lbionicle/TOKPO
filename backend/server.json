@@ -1,0 +1,165 @@
+{
+  "Dishes" : {
+    "Воскресенье": [
+      {
+        "id": "71",
+        "title" : "Борщ",
+        "description" : "Традиционный славянский суп с красной свёклой.",
+        "src" : "https://placeholder.apptor.studio/300/300/product1.png",
+        "price": "4"
+      },
+      {
+        "id": "72",
+        "title" : "Пельмени",
+        "description" : "Мясные пироги, обычно подаются с сметаной.",
+        "src" : "https://placeholder.apptor.studio/300/300/product2.png",
+        "price": "3"
+      },
+      {
+        "id": "73",
+        "title" : "Блины",
+        "description" : "Тонкие панкейки, которые можно подавать с различными начинками.",
+        "src" : "https://placeholder.apptor.studio/300/300/product3.png",
+        "price": "2"
+      }
+    ],
+    "Вторник": [
+      {
+        "id": "21",
+        "title" : "Оливье",
+        "description" : "Русский салат с картофелем, морковью, горошком и колбасой.",
+        "src" : "https://placeholder.apptor.studio/300/300/product4.png",
+        "price": "2"
+      },
+      {
+        "id": "22",
+        "title" : "Шашлык",
+        "description" : "Мясо, маринованное и приготовленное на открытом огне.",
+        "src" : "https://placeholder.apptor.studio/300/300/product5.png",
+        "price": "3"
+      },
+      {
+        "id": "23",
+        "title" : "Голубцы",
+        "description" : "Мясной фарш, завернутый в листья капусты.",
+        "src" : "https://placeholder.apptor.studio/300/300/product6.png",
+        "price": "4"
+      }
+    ],
+    "Понедельник": [
+      {
+        "id": "11",
+        "title" : "Солянка",
+        "description" : "Суп с мясом, овощами и маринованными огурцами.",
+        "src" : "https://placeholder.apptor.studio/300/300/product7.png",
+        "price": "4"
+      },
+      {
+        "id": "12",
+        "title" : "Уха",
+        "description" : "Рыбный суп, традиционно приготовленный на открытом огне.",
+        "src" : "https://placeholder.apptor.studio/300/300/product8.png",
+        "price": "3"
+      },
+      {
+        "id": "13",
+        "title" : "Пирожки",
+        "description" : "Маленькие пироги с различными начинками.",
+        "src" : "https://placeholder.apptor.studio/300/300/product9.png",
+        "price": "2"
+      }
+    ],
+    "Пятница": [
+      {
+        "id": "51",
+        "title" : "Вареники",
+        "description" : "Пельмени, обычно с начинкой из творога или вишни.",
+        "src" : "https://placeholder.apptor.studio/300/300/product10.png",
+        "price": "2"
+      },
+      {
+        "id": "52",
+        "title" : "Котлеты по-киевски",
+        "description" : "Куриная грудка, заполненная маслом и зеленью, обжаренная до хрустящей корочки.",
+        "src" : "https://placeholder.apptor.studio/300/300/product11.png",
+        "price": "3"
+      },
+      {
+        "id": "53",
+        "title" : "Окрошка",
+        "description" : "Холодный суп с квасом, огурцами, редиской и ветчиной.",
+        "src" : "https://placeholder.apptor.studio/300/300/product12.png",
+        "price": "4"
+      }
+    ],
+    "Среда": [
+      {
+        "id": "31",
+        "title" : "Запеканка",
+        "description" : "Творожная запеканка, обычно подается на завтрак.",
+        "src" : "https://placeholder.apptor.studio/300/300/product13.png",
+        "price": "4"
+      },
+      {
+        "id": "32",
+        "title" : "Сырники",
+        "description" : "Творожные кексы, обычно подаются с сметаной или вареньем.",
+        "src" : "https://placeholder.apptor.studio/300/300/product14.png",
+        "price": "3"
+      },
+      {
+        "id": "33",
+        "title" : "Медовик",
+        "description" : "Слоеный медовый торт с кремом.",
+        "src" : "https://placeholder.apptor.studio/300/300/product15.png",
+        "price": "2"
+      }
+    ],
+    "Суббота": [
+      {
+        "id": "61",
+        "title" : "Плов",
+        "description" : "Блюдо из риса, мяса и овощей, популярное в Средней Азии.",
+        "src" : "https://placeholder.apptor.studio/300/300/product16.png",
+        "price": "2"
+      },
+      {
+        "id": "62",
+        "title" : "Бефстроганов",
+        "description" : "Тушеная говядина в сметанном соусе.",
+        "src" : "https://placeholder.apptor.studio/300/300/product17.png",
+        "price": "3"
+      },
+      {
+        "id": "63",
+        "title" : "Драники",
+        "description" : "Картофельные оладьи, традиционные для Беларуси.",
+        "src" : "https://placeholder.apptor.studio/300/300/product18.png",
+        "price": "4"
+      }
+    ],
+    "Четверг": [
+      {
+        "id": "41",
+        "title" : "Жаркое",
+        "description" : "Тушеное мясо с овощами в горшочке.",
+        "src" : "https://placeholder.apptor.studio/300/300/product19.png",
+        "price": "4"
+      },
+      {
+        "id": "42",
+        "title" : "Салат Винегрет",
+        "description" : "Салат из свёклы, картофеля, моркови, горошка и огурцов.",
+        "src" : "https://placeholder.apptor.studio/300/300/product20.png",
+        "price": "3"
+      },
+      {
+        "id": "43",
+        "title" : "Сметанник",
+        "description" : "Торт на основе сметаны с бисквитными коржами.",
+        "src" : "https://placeholder.apptor.studio/300/300/product21.png",
+        "price": "2"
+      }
+    ]
+  }
+}
